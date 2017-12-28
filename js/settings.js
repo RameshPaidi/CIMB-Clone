@@ -25,15 +25,15 @@ var socialIconSettings = {
     "position": "right",
     "icons": {
         "facebook": {
-            "url": "https://facebook.com/barisanasional",
+            "url": "https://www.facebook.com/CIMBMalaysia",
             "text": "Facebook"
         },
         "twitter": {
-            "url": "https://twitter.com/barisanasional",
+            "url": "https://twitter.com/cimbmalaysia",
             "text": "Twitter"
         },
         "googleplus": {
-            "url": "https://www.instagram.com/barisanasional",
+            "url": "https://www.instagram.com/cimbmalaysia",
             "text": "Google+"
         },
         "email": {
@@ -41,7 +41,7 @@ var socialIconSettings = {
             "text": "Email"
         },
         "link": {
-            "url": "http://www.barisannasional.org.my",
+            "url": "https://www.cimbclicks.com.my",
             "text": "Website"
         }
     }
